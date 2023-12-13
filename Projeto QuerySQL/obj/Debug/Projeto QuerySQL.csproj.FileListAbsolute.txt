@@ -2,7 +2,6 @@ C:\Users\TID-STEVERSON\Desktop\Projetos C#\Projeto QuerySQL\Projeto QuerySQL\bin
 C:\Users\TID-STEVERSON\Desktop\Projetos C#\Projeto QuerySQL\Projeto QuerySQL\bin\Debug\Projeto QuerySQL.exe
 C:\Users\TID-STEVERSON\Desktop\Projetos C#\Projeto QuerySQL\Projeto QuerySQL\bin\Debug\Projeto QuerySQL.pdb
 C:\Users\TID-STEVERSON\Desktop\Projetos C#\Projeto QuerySQL\Projeto QuerySQL\obj\Debug\Projeto QuerySQL.csproj.AssemblyReference.cache
-C:\Users\TID-STEVERSON\Desktop\Projetos C#\Projeto QuerySQL\Projeto QuerySQL\obj\Debug\Projeto QuerySQL.csproj.SuggestedBindingRedirects.cache
 C:\Users\TID-STEVERSON\Desktop\Projetos C#\Projeto QuerySQL\Projeto QuerySQL\obj\Debug\Projeto_QuerySQL.frmExecultar.resources
 C:\Users\TID-STEVERSON\Desktop\Projetos C#\Projeto QuerySQL\Projeto QuerySQL\obj\Debug\Projeto_QuerySQL.Properties.Resources.resources
 C:\Users\TID-STEVERSON\Desktop\Projetos C#\Projeto QuerySQL\Projeto QuerySQL\obj\Debug\Projeto QuerySQL.csproj.GenerateResource.cache
